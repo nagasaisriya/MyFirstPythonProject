@@ -1,4 +1,4 @@
-#MyFirstPythonProject
+#
 THE ZEROCROSS GAME
 
 INTRODUCTION-
