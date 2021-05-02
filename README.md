@@ -1,8 +1,7 @@
-#
-THE ZEROCROSS GAME
+# THE ZEROCROSS GAME
 
-INTRODUCTION-
+**INTRODUCTION-**
 
-The ZEROCROSS game is a two-player game where the 2 players need to enter their choice either X or O.The player with any one row or column or diagonal filled first would be the winner else it's a tie!
+The ZEROCROSS game is a two-player board game where the 2 players need to enter their choice either X or O.The player with any one row or column or diagonal filled first would be the winner else it's a tie!
 
-LANGUAGE USED-PYTHON
+**LANGUAGE USED-PYTHON**
